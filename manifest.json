@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Extension đầu tiên",
+  "version": "1.0",
+  "description": "Extension demo của tôi",
+
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Click vào tôi"
+  },
+
+  "permissions": ["storage", "activeTab"]
+}
